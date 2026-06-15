@@ -173,14 +173,5 @@ After running `python main.py`, the following artifacts are generated:
 - No advanced deployment or CI/CD configuration is included yet
 - Designed as an educational MLOps project demonstrating best practices
 
-## 📄 License
-
-[Add your license here]
-
-## 👤 Author
-
-[Your name/organization]
-
----
 
 **Getting Started?** Run `python main.py` to execute the full pipeline, or `python app.py` to start the web interface.
